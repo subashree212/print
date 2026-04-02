@@ -21,34 +21,19 @@ Copies
 Total price
 📋 Orders Dashboard
 View all orders in a structured table format
-🏗️ Project Structure
-root/
-│
-├── src/main/               # Java Backend (Spring Boot / Maven)
-├── target/                 # Compiled backend files
-├── pom.xml                 # Maven dependencies
-├── MYSQL_SETUP.txt         # Database setup instructions
-│
-├── frontend/               # React Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── pages/          # UI pages
-│   │   ├── services/       # API calls
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   ├── package.json
-│
-└── README.md
-🛠️ Tech Stack
+
+
 Frontend
 React.js
 HTML5, CSS3, JavaScript
+
 Backend
 Java (Spring Boot)
 Maven
+
 Database
 MySQL
+
 ⚙️ Setup Instructions
 🔹 Backend Setup (Java + Maven)
 # Navigate to backend folder
