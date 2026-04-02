@@ -1,17 +1,24 @@
 📂 File Upload
 Upload PDF files only
 Displays selected file name
+
 📄 Automatic Page Detection
 Extracts and displays total number of pages from the uploaded PDF
+
+
 ⚙️ Print Configuration
 Select print type:
 Black & White
 Color
 Specify number of copies
+
+
 💰 Dynamic Pricing
 Black & White: ₹2 per page
 Color: ₹5 per page
 Real-time total price calculation
+
+
 💾 Order Management
 Stores order details:
 File name
@@ -19,6 +26,8 @@ Page count
 Print type
 Copies
 Total price
+
+
 📋 Orders Dashboard
 View all orders in a structured table format
 
