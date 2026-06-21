@@ -95,8 +95,6 @@ Completed within 2 days as per assignment requirement.
 👩‍💻 Author
 Subashree
 
-GitHub: https://github.com/your-username
-
 ⭐ Future Enhancements
 User authentication
 Payment integration
