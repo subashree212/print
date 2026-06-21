@@ -90,7 +90,7 @@ Backend: (Add Render / Railway / Localhost)
 ✔️ Organized project structure
 ⏳ Timeline
 
-Completed within 2 days as per assignment requirement.
+
 
 👩‍💻 Author
 Subashree
